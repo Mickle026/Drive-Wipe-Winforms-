@@ -70,7 +70,7 @@ DriveWipe/
 
 ## 📸 Screenshots
 
-![Screenshot]/Drive Wipe/DriveWipe.png
+![Screenshot](https://github.com/Mickle026/Drive-Wipe-Winforms-/blob/master/Drive%20Wipe/DriveWipe.png)
 
 ---
 
