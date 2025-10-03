@@ -70,9 +70,7 @@ DriveWipe/
 
 ## 📸 Screenshots
 
-> Placeholder for screenshots. Add your application UI images here, for example:
-
-![Screenshot Placeholder](https://via.placeholder.com/600x400?text=Drive+Wipe+Screenshot)
+![Screenshot Placeholder]/DriveWipe/DriveWipe.png
 
 ---
 
