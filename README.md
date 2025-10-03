@@ -70,7 +70,7 @@ DriveWipe/
 
 ## 📸 Screenshots
 
-![Screenshot Placeholder]/Drive Wipe/DriveWipe.png
+![Screenshot]/Drive Wipe/DriveWipe.png
 
 ---
 
